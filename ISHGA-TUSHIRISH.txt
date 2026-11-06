@@ -1,0 +1,5 @@
+1) Node.js o'rnating (nodejs.org, 18+ versiya)
+2) Shu papkada terminal oching va yozing:  node server.js
+3) Brauzerda oching: http://localhost:3000
+4) Telefondan (bir Wi-Fi'da): http://KOMPYUTER-IP:3000
+Admin: login +998 99-083-26-96, parol — server.js ichida ADMIN_PASS (o'zgartiring!)
